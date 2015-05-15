@@ -220,6 +220,7 @@ margin-left: -1000px;  /* Do not edit unless you know what you are doing. */
 color: #000;
 text-decoration: none;
 font-weight: bold;
+font-family: fantasy;
 }
 
 #leftnav .navlist a:hover  /* Styles the background color when you hover over the nav links */
